@@ -1,0 +1,88 @@
+/* Tu CSS va aqui */
+body {
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#logo {
+	margin-left: 0 ;
+	width: 200px;
+	height: auto;
+}
+nav li {
+	display: inline;
+}
+nav ul a {
+	text-decoration: none;
+	color: #8F8D8D;
+}
+nav li {
+	padding-left: 30px;
+}
+nav ul {
+	padding-top: 20px;
+	padding-left: 100px;
+}
+.fondo {
+	background-color: #736F6F;
+	width: 100%;
+	height: auto;
+	color: white;
+}
+.fondo h1 {
+	font-size: 50px;
+}
+.text h1 p {
+	width: 500px;
+}
+.text p {
+	padding-top: 30px;
+	padding-bottom: 60px;
+}
+.fondo .text {
+	margin-top :60px;
+}
+.text h1 {
+	padding-top: 10px;
+}
+.box-formulario {
+	background-color: #8F8D8D;
+	border-radius: 6px;
+	width: 50%;
+	height: 120px;
+	margin-top: 70px;
+	margin-left: 100px;
+}
+.box-formulario h2 {
+	font-size: 16px;
+	text-align: center;
+	padding-top:10px;
+	padding-bottom: 10px;
+}
+.box-tunombre, .box-email {
+	background-color: white;
+	width:200px;
+	text-align: center;
+	display: block;
+	margin-bottom: 6px;
+}
+.box-subscribe {
+	background-color: #1DC1F7;
+	width:200px;
+	text-align: center;
+	display: block;
+	margin-bottom: 6px;
+}
+.box-subscribe p {
+
+}
+
+.box-tunombre, .box-email, .box-subscribe {
+	margin-left: 12px;
+}
+.pie a {
+	text-decoration: none;
+	color: blue;
+}
+.pie p {
+	color: #8F8D8D;
+	font-size: 12px;}
